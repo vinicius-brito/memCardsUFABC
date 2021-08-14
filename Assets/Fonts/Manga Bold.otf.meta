@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6fcc318ad374c314cbea5d0248b037cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Manga
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dd3ab1c0fa6ed1f4698e5113844a75c5, type: 3}
+  - {fileID: 12800000, guid: 3022f59d434342f46b1871554a7fcbe8, type: 3}
+  - {fileID: 12800000, guid: 51591259ffe58c643ad527b5477da1cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
